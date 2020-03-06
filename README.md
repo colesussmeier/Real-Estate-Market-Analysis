@@ -4,6 +4,8 @@ People do research before they make purchases, especially when they plan to purc
 
 Search trend data is retrieved using Pytrends, an unofficial Google Trends API, and median home values come from a csv file downloaded from Realtor.com.
 
+This project accurately demonstrates an association between the search volume of queries related to a local real estate market and the changes in the median home value of that same market. Based on graphical analysis, it appears that this data can be used as a leading indicator to predict changes in the median home value of local residential housing markets.
+
 This project is not complete, I would like to create a predictive model with this data. 
 
 
